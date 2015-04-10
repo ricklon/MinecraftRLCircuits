@@ -1,0 +1,154 @@
+        *** Blender Rig Changelog ***
+
+ - Rig By: rymdnisse -
+
+Youtube: youtube.com/rymdnisse
+Twitter: twitter.com/rymdnisse
+Facebook: facebook.com/rymdnisse
+Website: rymdnisse.net
+
+»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»
+Rig Download: rymdnisse.net/downloads/minecraft-blender-rig.html
+Blender Download: blender.org/download/
+(This rig is also avalible for Blenders Internal Render Engine, Download it from the website)
+»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»
+
+
+Are You Missing Something
+Submit it on the download page in the comment section!
+
+¤ Update 1.4: (2015-02-28) ¤
+============================
+**Added**
+
+• Sugarcane
+• Block breaking animation system with controls
+• Potatoes And Carrots in all 4 growing states
+• 1.8 Doors
+• A more detalied 3D enchantment table
+• Park Bench
+• Upgraded the wolf rig
+• Upgraded the enderdragon rig
+• Minecraft environment map
+Character rig:
+• Possibility for more detailied controls
+• Colored Bones
+• Improved eye tracking
+• Option to scale breasts and waist to create a generic female figure
+
+
+
+**Fixed**
+• Texture for enchantment book
+• Boat texture
+• Powerrail:off texture
+
+(Updated in Blender verision 2.73a)
+============================
+
+
+¤ Update 1.3: (2014-08-06) ¤
+============================
+**Added**
+
+• Tons of new items
+• Rabbit
+• Banner
+• 1.8 skin support for the character rig
+• Driver to toggle the 2nd skin layer on character rig
+• Custom bones for the character rig
+• Bendable feet for the character rig
+• Red Sandstone blocks
+• Armor Stand
+
+**Fixed**
+
+• All textures are now default size with nearest interpolation mode
+• Re-created most of the items now with +60000 less vertecies
+• Removed a lot of unessisary packed textures
+• Removed prefixes such as Block_ and Item_
+• The failed UV map for birch wood
+• The failed weightpaint on the horse
+• Improved IK/FK switch for the character rig
+• Smoother body bend for the character rig
+• Removed some stuffs from the simple rig
+• New cloud material
+• Drivers to connect IK arms to body has been moved
+
+(Updated in Blender verision 2.71)
+============================
+
+¤ Update 1.2: (2014-06-22) ¤
+============================
+**Added**
+
+• Endermite
+• Guardian
+• Elder Guardian
+• Wet sponge
+• Sea lantern
+• All Prismarine blocks
+
+**Fixed**
+
+• New sponge texture
+• Top of the Grass block now have textures
+
+(Updated in Blender verision 2.70a)
+============================
+
+
+¤ Update 1.1: (2014-05-11) ¤
+============================
+**Added**
+
+• 3D ore
+• Carrot Item
+• New Enchanting Table Book
+• Enchanting Particles
+• Cactus
+• Barrier
+• Iron Trapdoor
+• Slime Block
+• Granite
+• Polished Granite
+• Diorite
+• Polished Diorite
+• Andesite
+• Polished Andesite
+• New Features to the Character Rig:
+		Driver to Connect the IK arms to the body
+		Driver to remove fasical features
+		Driver to remove Fingers
+		Driver to make the face "flat"
+
+
+**Fixed**
+
+• Transparent Leaves
+• The failed Weightppaint on the Cow
+• Remade the chests
+• Lava now has the new lava texture
+• Named the disc item
+
+
+(Updated in Blender verision 2.70a)
+============================
+
+
+¤ Release 1.0: (2014-03-15) ¤
+============================
+
+• Rig released!
+
+(Released in Blender verision 2.69)
+============================
+
+
+
+
+»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»
+- Rig Download: rymdnisse.net/downloads/minecraft-blender-rig.html
+- Blender Download: blender.org/download/
+(This rig is also avalible for Blenders Internal Render Engine, Download it from the website)
+»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»»--» »--»
